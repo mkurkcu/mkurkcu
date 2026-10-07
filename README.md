@@ -1,62 +1,68 @@
 # Hi, I'm Muhammet 👋
 
-I'm an **Industrial Engineering graduate** interested in using data, technology, and process improvement to solve practical operational and business problems.
+I'm an **Industrial Engineering graduate transitioning into software development**, with a focus on Python and building practical applications.
 
-## About Me
+I enjoy turning problems into working software — from automation and data-processing tools to desktop applications and decision-support systems.
 
-My main interests include:
+## 💻 What I'm Working With
 
-- Industrial & Process Engineering
-- Operations and Continuous Improvement
-- Supply Chain & Logistics
-- Data Analysis and Visualization
-- Business Systems / ERP
-- Python Automation
-
-I enjoy taking unclear problems, breaking them into smaller components, analyzing the available information, and turning the results into practical solutions.
-
-## Technical Skills
-
-**Programming & Data**
 - Python
+- Object-oriented programming
 - Pandas
 - NumPy
 - Matplotlib
-- Data cleaning and preprocessing
-- Data visualization
-- Exploratory data analysis
+- Data processing and visualization
+- Desktop application development
+- File and data persistence
+- Automation
+- Git & GitHub
 
-**Industrial Engineering**
-- Process improvement
-- Process mapping
-- KPI development
-- Root-cause analysis
-- Resource allocation
-- Operations analysis
-- Systems thinking
+## 🚀 What I Build
 
-## Project Experience
+I'm particularly interested in building software that:
 
-### Operations & Quality Analytics
-Built Python-based analytical work for an academic capstone involving operational quality data, dashboarding, resource allocation, and forecasting support.
+- Automates repetitive tasks
+- Organizes and analyzes data
+- Turns ideas into usable applications
+- Helps users make better decisions
+- Improves existing workflows
 
-### Productivity & Decision Tools
-Developing practical Python applications for prioritization, tracking, and decision support, with an emphasis on turning structured data into useful actions.
+## 🛠 Projects
 
-## Current Focus
+### Productivity & Prioritization Application
+A Python application for organizing tasks based on urgency and importance, tracking completion, maintaining historical records, and supporting weekly planning.
 
-I'm currently building a portfolio around:
+**Concepts:** Python application development, user interfaces, data persistence, application logic and iterative feature development.
 
-- Operational analytics
-- Process improvement
-- Supply chain and logistics
-- Decision-support tools
-- Python automation
+### Personal Progress Tracking System
+A modular application concept for recording goals, progress, metrics and development across different areas, designed with future multi-user functionality in mind.
 
-## Career Interests
+**Concepts:** Software architecture, modular design, data modeling and application development.
 
-I'm interested in entry-level opportunities involving **Industrial Engineering, Operations, Process Improvement, Supply Chain, Analytics, and Business Systems**.
+### Data Analytics & Dashboarding
+Python-based work involving data preprocessing, analysis, visualization and dashboard development using operational datasets.
+
+**Concepts:** Python, Pandas, data visualization, data transformation and analytical programming.
+
+## 🌱 Currently Improving
+
+I'm continuing to strengthen my skills in:
+
+- Software design
+- Data structures and algorithms
+- Object-oriented programming
+- APIs
+- Databases and SQL
+- Backend development
+- Testing
+- Git workflows
+
+## 🎯 Career Direction
+
+I'm looking for opportunities where I can grow as a software developer and contribute to real products and technical problems.
+
+I'm particularly interested in **Python development, backend development, automation, data-oriented software and entry-level software engineering roles**.
 
 ---
 
-This profile is a work in progress as I continue adding practical engineering and analytics projects.
+I'm actively building and documenting projects here as I develop my software engineering skills.
